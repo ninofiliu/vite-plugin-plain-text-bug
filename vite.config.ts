@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 import plainText from "vite-plugin-plain-text";
 
-defineConfig({
+export default defineConfig({
   plugins: [plainText(/\.txt$/)],
 });

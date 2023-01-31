@@ -3,12 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   typescript: ^4.9.3
   vite: ^4.0.0
-  vite-plugin-plain-text: ^1.2.1
+  vite-plugin-plain-text: ^1.3.2
 
 devDependencies:
   typescript: 4.9.4
   vite: 4.0.4
-  vite-plugin-plain-text: 1.2.1
+  vite-plugin-plain-text: 1.3.2
 
 packages:
 
@@ -457,8 +457,8 @@ packages:
     hasBin: true
     dev: true
 
-  /vite-plugin-plain-text/1.2.1:
-    resolution: {integrity: sha512-XPMpU0fJy3v2XD+m9tn1VoyOE4z96C8N/qd5uQ7TogLyR3++gLQ9ZCnRMvNE9zR2BD0SIAd9grRRmKl/CT0ptQ==}
+  /vite-plugin-plain-text/1.3.2:
+    resolution: {integrity: sha512-TY19/0cYkS5TmFjXwhj8uNer3wIgUJ9NchBk8LBBSpqP0c5tc81QaY8XJLdZrmdCbutKkivsiENNG/2k8vVKOg==}
     dependencies:
       '@napi-rs/magic-string': 0.3.4
     dev: true
